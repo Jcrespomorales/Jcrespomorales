@@ -29,14 +29,8 @@ Actualmente compagino mi trabajo con los estudios de **Desarrollo de Aplicacione
 
 ## 📫 Contacto
 
-- **Email:** jcrespomorales@outlook.com*  
-- **LinkedIn:** José Alberto Crespo Morales*  
-
----
-
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+- **Email:** jcrespomorales@outlook.com 
+- **LinkedIn:** José Alberto Crespo Morales 
 
 
 <!--
