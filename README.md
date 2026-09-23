@@ -1,49 +1,82 @@
-# 👋 ¡Hola! Soy José Alberto
+# 👋 Hola, soy José Alberto Crespo Morales
 
-He descubierto, ya pasados los treinta, que mi auténtico hobby es programar.  
-Actualmente compagino mi trabajo con los estudios de **Desarrollo de Aplicaciones Web (DAW)** y disfruto cada día aprendiendo algo nuevo. Me apasionan la programación, la tecnología y el aprendizaje continuo. Me gusta entender cómo funcionan las cosas por dentro, escribir código limpio y crear proyectos que me ayuden a crecer como desarrollador.
+### 💻 Desarrollador Java Junior | Estudiante de DAW
+
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)** y actualmente estoy centrado en el desarrollo de aplicaciones con Java y tecnologías del ecosistema Spring.
+
+Tras varios años de experiencia profesional en otros sectores, decidí reenfocar mi carrera hacia el desarrollo de software, un ámbito que se ha convertido en mi verdadera pasión. Dedico gran parte de mi tiempo a seguir aprendiendo, crear proyectos personales y mejorar mis habilidades como desarrollador.
+
+🎯 Actualmente busco mi **primera oportunidad profesional como Desarrollador Junior**, donde poder aportar compromiso, ganas de aprender y una mentalidad de mejora continua.
 
 ---
 
-## 🚀 Tecnologías que estoy aprendiendo
+## 🚀 Tecnologías y herramientas
 
-- **Java** (POO, estructuras de datos, Eclipse)
-- **MySQL** (consultas, modelado básico, relaciones)
-- **JavaScript** (bases del lenguaje y lógica)
-- **PHP** (desarrollo web backend inicial)
+### ☕ Backend
+- **Java** (POO, estructuras de datos, colecciones, programación orientada a objetos)
+- **Spring Boot** (desarrollo de aplicaciones y APIs REST)
+- **Spring Data JPA** (acceso y gestión de datos)
+- **Hibernate** (persistencia de datos ORM)
+- **PHP** (desarrollo web backend)
 - **Python** (scripts y automatización)
-- **HTML y CSS** (fundamentos del desarrollo web)
-- **VS Code** y **Eclipse** como entornos de desarrollo
+
+### 🗄️ Bases de datos
+- **MySQL** (consultas SQL, modelado relacional y relaciones)
+- **MongoDB** (bases de datos NoSQL y documentos JSON)
+
+### 🌐 Desarrollo Web
+- **HTML5**
+- **CSS3**
+- **JavaScript** (lógica de programación y manipulación del DOM)
+
+### 🖥️ Aplicaciones de escritorio
+- **JavaFX** (interfaces gráficas y aplicaciones de escritorio)
+
+### 🛠️ Herramientas y entornos
+- **Git y GitHub**
+- **VS Code**
+- **Eclipse**
+- **Maven**
+---
+
+# ⭐ Proyecto Destacado
+
+## 📝 NoteFX
+
+Aplicación de escritorio desarrollada en Java para crear y gestionar notas Markdown con renderizado en tiempo real.
+
+### Tecnologías
+- Java
+- JavaFX
+- Markdown
+- Maven
+- SQLite
+- Git
+
+### Funcionalidades principales
+
+✅ Editor Markdown
+
+✅ Vista previa en tiempo real
+
+✅ Gestión de notas
+
+✅ Almacenamiento local
+
+✅ Interfaz gráfica moderna
+
+
+🔗 **Repositorio:** [NoteFX](https://github.com/Jcrespomorales/notefx)
+
+
 
 ---
 
-## 🎯 Objetivos actuales
 
-- Mejorar mi lógica de programación con proyectos pequeños y prácticos  
-- Crear aplicaciones web completas usando Java + MySQL  
-- Dominar JavaScript para el desarrollo frontend  
-- Construir un portafolio sólido con proyectos reales  
-- Documentar bien mis repositorios para que sean claros y útiles
+# 📫 Contacto
+
+📧 **Email:** jcrespomorales@outlook.com
+
+💼 **LinkedIn:** José Alberto Crespo Morales
 
 ---
-
-## 📫 Contacto
-
-- **Email:** jcrespomorales@outlook.com 
-- **LinkedIn:** José Alberto Crespo Morales 
-
-
-<!--
-**Jcrespomorales/Jcrespomorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
